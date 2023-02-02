@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Thayguimaraes/perguntas-e-respostas-com-Express.js-e-MySQL#readme",
   "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
     "ejs": "^3.1.8",
     "express": "^4.18.2"
   }
